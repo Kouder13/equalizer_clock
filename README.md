@@ -2,7 +2,7 @@
 
 This application is an example of a digital clock (Code in the digital_clock folder).
 
-It is a digital clock that allows displaying each digit of the clock in a form of an equalizer,
+It is a digital clock app that allows displaying each digit of the clock in a form of an equalizer,
 
 Taking into consideration the ones and the tens of seconds of minutes and of hours.
 
