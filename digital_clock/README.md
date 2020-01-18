@@ -11,5 +11,5 @@ Taking into consideration the ones and the tens of seconds of minutes and of hou
 <img src='equalizer_clock.gif' width='350'>
 
 
-See equalizer Clock at link: https://equalizer-clock.firebaseapp.com/
+See Equalizer Clock running at link: https://equalizer-clock.firebaseapp.com/
 
