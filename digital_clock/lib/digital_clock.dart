@@ -82,7 +82,7 @@ class _DigitalClockState extends State<DigitalClock> {
   Widget build(BuildContext context) {
     return Container(
       color: backgroundColor,
-      padding: EdgeInsets.all(10),
+      padding: EdgeInsets.all(15),
       child: Row(
         children: <Widget>[
           Expanded(
@@ -275,7 +275,7 @@ class EqualizerClockColumn extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final fontSize = MediaQuery.of(context).size.width / 6;
-    final containerHeight = fontSize * 1.75;
+    final containerHeight = fontSize * 1.5;
     final itemWidth = containerHeight / 3;
     final itemHeight = containerHeight / 9;
     final defaultStyle = TextStyle(
