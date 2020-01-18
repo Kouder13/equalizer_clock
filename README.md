@@ -1,6 +1,6 @@
 # Equalizer Clock
 
-This app is an example of a digital clock (digital_clock folder).
+This application is an example of a digital clock (Code in the digital_clock folder).
 
 It is a digital clock that allows displaying each digit of the clock in a form of an equalizer,
 
